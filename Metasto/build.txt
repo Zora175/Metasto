@@ -1,0 +1,3 @@
+displayName = The Metasto Mod
+author = zcizoMK
+version = 0.46

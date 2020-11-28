@@ -1,0 +1,41 @@
+Current content: 
+
+11 items (1 tile);
+>New armor set, Metal Bar, New Material and New Weapons
+
+>planning to add more in the near future including NPC's (the next project is a boss, that will drop the Yamium bars and more!)
+
+
+Changelog: 
+
+1.46 changes:
+Items added,
+- Added a new metal bar, Yamium. 
+- Added a new armor set made from Yamium, the Yamium Armor Set
+- Added 2 new weapons, -Ultispear and the heavily upgraded version, Ultimus
+
+Balance changes:
+-Ankokudzura from 160 to 200 damage
+
+
+Resprites: 
+-changed 'Yamium Blade' projectile
+
+
+Misc changes:
+Changed 'Yamium Blade' projectile shoot speed
+
+(I am pushing to bring bosses and new items/drops the next updates, it may take a while)
+
+
+Support:
+If you have any item requestes, changes, or you possibly want to cooperate with the creation of this mod, my DM's are open in discord: Zcizo#1803
+Any help is appreciated and will be mentioned on the credits list. Thanks for your support -Zcizo, 2020
+
+Credits:
+zcizoMK, aka Zcizo -Mod Owner, Coder/Spriter
+Blobblobblob01 -Spriter
+
+
+
+
